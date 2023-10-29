@@ -8,10 +8,10 @@
 
 ### ⚙️ 개발 환경
 
-- `Visual Studio`
-- Java
-- MySQL
-- Apache Tomcat
+- `Eclipse`
+- `Java`
+- `MySQL`
+- `Apache Tomcat`
 
 
 ### 주 기능
